@@ -20,7 +20,7 @@
         android:id="@+id/button"
         android:textColor="#ffffff"
         android:visibility="visible"
-        android:background="#00ffffff"
+        android:background="@drawable/botonconborde"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
 
